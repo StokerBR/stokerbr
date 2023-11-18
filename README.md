@@ -19,7 +19,7 @@
 
 #### 🛠️ Languages & Frameworks
 
-[![Languages & Frameworks](https://skillicons.dev/icons?i=laravel,php,js,ts,jquery,react,vue,nuxt,nestjs,nodejs,html,css,scss,python,django,flutter,c,cpp)](https://skillicons.dev)
+[![Languages & Frameworks](https://skillicons.dev/icons?i=laravel,php,js,ts,jquery,vue,react,nuxt,nestjs,nodejs,flutter,dart,html,css,scss,python,django,c,cpp)](https://skillicons.dev)
 
 #### 🗄️ Databases
 
